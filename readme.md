@@ -5,7 +5,7 @@ SheetGenerator는 구글 시트나 Excel 데이터를 바이너리 또는 JSON �
 ## 주요 기능
 
 - 구글 시트에서 데이터 가져오기
-- 바이너리/JSON 형식으로 데이터 내보내기  
+- 바이너리/JSON 형식으로 데이터 내보내기
 - 데이터 액세스를 위한 C# 코드 자동 생성
 - MessagePack을 이용한 효율적인 바이너리 직렬화/역직렬화
 - Index와 Key 기반 빠른 데이터 검색
@@ -56,7 +56,7 @@ SheetGenerator는 구글 시트나 Excel 데이터를 바이너리 또는 JSON �
       "namespace": "YourNamespace.Tables",
       "outputPath": "Generated/Script/CSharp",
       "templates": {
-        "recordPath": "ScriptTemplate/CSharp/RecordTemplate.txt",  
+        "recordPath": "ScriptTemplate/CSharp/RecordTemplate.txt",
         "tablePath": "ScriptTemplate/CSharp/TableTemplate.txt",
         "systemPath": "ScriptTemplate/CSharp/SystemTemplate.txt"
       }
@@ -69,7 +69,7 @@ SheetGenerator는 구글 시트나 Excel 데이터를 바이너리 또는 JSON �
 
 테이블은 다음과 같은 형식으로 구성됩니다:
 
-![Google Sheet Example](https://example.com/path/to/image)
+![Google Sheet Format](docs/images/google-sheet-example.png)
 
 - 첫 줄: `@table:[테이블명]` 형식으로 테이블 시작을 표시
 - 두 번째 줄: 테이블 설명
@@ -109,7 +109,7 @@ await TableSystem.Instance.InitializeAsync("path/to/data");
 // Index로 데이터 접근
 var record = TableSystem.Instance.YourTable.GetByIndex(1);
 
-// Key로 데이터 접근 
+// Key로 데이터 접근
 var record = TableSystem.Instance.YourTable.GetByKey("unique_key");
 
 // 모든 레코드 순회
