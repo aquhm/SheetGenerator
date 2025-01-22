@@ -1,0 +1,89 @@
+{
+  "name": "ClientTest3",
+  "columns": [
+    {
+      "name": "Index",
+      "type": "int",
+      "description": "\uC778\uB371\uC2A4(\uD544\uC218)",
+      "index": 0
+    },
+    {
+      "name": "Key",
+      "type": "string",
+      "description": "\uC2A4\uD2B8\uB9C1 \uD0A4",
+      "index": 1
+    },
+    {
+      "name": "Description",
+      "type": "float",
+      "description": "\uC124\uBA85",
+      "index": 2
+    },
+    {
+      "name": "English",
+      "type": "bool",
+      "description": "\uC601\uC5B4",
+      "index": 3
+    }
+  ],
+  "records": [
+    {
+      "values": {
+        "Index": "1",
+        "Key": "DefaultFont",
+        "Description": "",
+        "English": "true"
+      }
+    },
+    {
+      "values": {
+        "Index": "2",
+        "Key": "Sign Up Agreement",
+        "Description": "",
+        "English": "false"
+      }
+    },
+    {
+      "values": {
+        "Index": "3",
+        "Key": "str_company_name_hogangnono",
+        "Description": 0,
+        "English": false
+      }
+    },
+    {
+      "values": {
+        "Index": "4",
+        "Key": "str_company_name_zigbang",
+        "Description": 0,
+        "English": false
+      }
+    },
+    {
+      "values": {
+        "Index": "5",
+        "Key": "str_energy_saving_feature",
+        "Description": 0,
+        "English": false
+      }
+    },
+    {
+      "values": {
+        "Index": "6",
+        "Key": "str_jump_feature",
+        "Description": 0,
+        "English": false
+      }
+    },
+    {
+      "values": {
+        "Index": "7",
+        "Key": "str_language_setting_desc",
+        "Description": 0,
+        "English": false
+      }
+    }
+  ],
+  "columnCount": 4,
+  "recordCount": 7
+}

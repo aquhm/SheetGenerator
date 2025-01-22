@@ -1,0 +1,240 @@
+2025-01-22 16:16:08.498 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:16:08.644 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:16:08.649 +09:00 [INF] 초기화 시작...
+2025-01-22 16:16:08.651 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:16:08.654 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:16:08.654 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:16:08.656 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:16:08.657 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:16:08.658 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:16:08.659 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:16:08.659 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:16:08.660 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:16:08.660 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:16:08.661 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 16:16:08.662 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:16:08.662 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 16:18:53.825 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:18:53.946 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:18:53.952 +09:00 [INF] 초기화 시작...
+2025-01-22 16:18:53.953 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:18:53.956 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:18:53.959 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:18:53.961 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:18:53.962 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:18:53.963 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:18:53.964 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:18:53.965 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:18:53.966 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:18:53.966 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:18:54.032 +09:00 [INF] Created service account template and setup guide
+2025-01-22 16:18:54.033 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:18:54.033 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 16:19:20.875 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:19:21.003 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:19:21.007 +09:00 [INF] 초기화 시작...
+2025-01-22 16:19:21.009 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:19:21.011 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:19:21.012 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:19:21.015 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:19:21.016 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:19:21.016 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:19:21.017 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:19:21.017 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:19:21.018 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:19:21.019 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:19:21.019 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 16:19:21.020 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:19:21.020 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 16:20:44.749 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:20:44.876 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:20:44.882 +09:00 [INF] 초기화 시작...
+2025-01-22 16:20:44.883 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:20:44.885 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:20:44.886 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:20:44.888 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:20:44.888 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:20:44.889 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:20:44.889 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:20:44.889 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:20:44.890 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:20:44.891 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:20:44.891 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 16:20:44.892 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:20:44.892 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 16:24:08.035 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:24:08.174 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:24:08.180 +09:00 [INF] 초기화 시작...
+2025-01-22 16:24:08.182 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:24:08.185 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:24:08.186 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:24:08.188 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:24:08.189 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:24:08.189 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:24:08.190 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:24:08.191 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:24:08.192 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:24:08.192 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:24:08.193 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 16:24:08.194 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:24:08.194 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 16:25:25.180 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:25:25.300 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:25:25.305 +09:00 [INF] 초기화 시작...
+2025-01-22 16:25:25.306 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:25:25.308 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:25:25.309 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:25:25.310 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:25:25.311 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:25:25.311 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:25:25.312 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:25:25.312 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:25:25.313 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:25:25.313 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:25:25.314 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 16:25:25.314 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:25:25.315 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 16:26:18.447 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:26:18.587 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:26:18.593 +09:00 [INF] 초기화 시작...
+2025-01-22 16:26:18.595 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:26:18.598 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:26:18.600 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:26:18.602 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:26:18.603 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:26:18.604 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:26:18.605 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:26:18.606 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:26:18.607 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:26:18.608 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:26:18.609 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 16:26:18.610 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:26:18.610 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 16:28:08.196 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:28:08.320 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:28:08.324 +09:00 [INF] 초기화 시작...
+2025-01-22 16:28:08.326 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:28:08.331 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:28:08.332 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:28:08.334 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:28:08.334 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:28:08.335 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:28:08.335 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:28:08.336 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:28:08.336 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:28:08.337 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:28:08.338 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 16:28:08.338 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:28:08.339 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 16:29:18.822 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:29:18.947 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:29:18.951 +09:00 [INF] 초기화 시작...
+2025-01-22 16:29:18.953 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:29:18.956 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:29:18.957 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:29:18.959 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:29:18.959 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:29:18.960 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:29:18.961 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:29:18.963 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:29:18.964 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:29:18.965 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:29:18.966 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 16:29:18.966 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:29:18.967 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 16:32:07.235 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 16:32:07.366 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 16:32:07.370 +09:00 [INF] 초기화 시작...
+2025-01-22 16:32:07.372 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 16:32:07.374 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 16:32:07.375 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 16:32:07.378 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 16:32:07.379 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 16:32:07.379 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 16:32:07.380 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 16:32:07.380 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 16:32:07.381 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 16:32:07.382 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 16:32:07.383 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 16:32:07.383 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 16:32:07.383 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 17:37:31.971 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 17:37:32.093 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 17:37:32.097 +09:00 [INF] 초기화 시작...
+2025-01-22 17:37:32.099 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 17:37:32.101 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 17:37:32.104 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 17:37:32.106 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 17:37:32.106 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 17:37:32.107 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 17:37:32.108 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 17:37:32.109 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 17:37:32.109 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 17:37:32.110 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 17:37:32.111 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 17:37:32.111 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 17:37:32.111 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 18:02:18.706 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 18:02:18.833 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 18:02:18.839 +09:00 [INF] 초기화 시작...
+2025-01-22 18:02:18.846 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 18:02:18.848 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 18:02:18.849 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 18:02:18.852 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 18:02:18.863 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 18:02:18.864 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 18:02:18.864 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 18:02:18.864 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 18:02:18.865 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 18:02:18.866 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 18:02:18.868 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 18:02:18.868 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 18:02:18.869 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 18:08:23.212 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 18:08:23.335 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 18:08:23.340 +09:00 [INF] 초기화 시작...
+2025-01-22 18:08:23.341 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 18:08:23.344 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 18:08:23.345 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 18:08:23.349 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 18:08:23.350 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 18:08:23.350 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 18:08:23.351 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 18:08:23.351 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 18:08:23.352 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 18:08:23.353 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 18:08:23.353 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 18:08:23.354 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 18:08:23.354 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 18:12:12.939 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 18:12:13.058 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 18:12:13.062 +09:00 [INF] 초기화 시작...
+2025-01-22 18:12:13.064 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 18:12:13.066 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 18:12:13.067 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 18:12:13.069 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 18:12:13.070 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 18:12:13.071 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 18:12:13.071 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 18:12:13.072 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 18:12:13.073 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 18:12:13.073 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 18:12:13.074 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 18:12:13.074 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 18:12:13.075 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.
+2025-01-22 19:23:21.120 +09:00 [INF] Logger initialization completed - logging level: ""Information""
+2025-01-22 19:23:21.191 +09:00 [INF] Logger initialization completed - logging level: ""Debug""
+2025-01-22 19:23:21.196 +09:00 [INF] 초기화 시작...
+2025-01-22 19:23:21.197 +09:00 [INF] Installation path: C:\Users\aquhm\.sheetgenerator
+2025-01-22 19:23:21.208 +09:00 [INF] Creating settings file at: C:\Users\aquhm\.sheetgenerator\settings.json
+2025-01-22 19:23:21.208 +09:00 [WRN] Settings file already exists. Use --force to overwrite.
+2025-01-22 19:23:21.210 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/RecordTemplate.txt
+2025-01-22 19:23:21.211 +09:00 [WRN] Template file CSharp/RecordTemplate already exists. Use --force to overwrite.
+2025-01-22 19:23:21.212 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/TableTemplate.txt
+2025-01-22 19:23:21.213 +09:00 [WRN] Template file CSharp/TableTemplate already exists. Use --force to overwrite.
+2025-01-22 19:23:21.214 +09:00 [INF] CreateTemplateFiles templatePath = C:\Users\aquhm\.sheetgenerator\ScriptTemplate\CSharp/SystemTemplate.txt
+2025-01-22 19:23:21.214 +09:00 [WRN] Template file CSharp/SystemTemplate already exists. Use --force to overwrite.
+2025-01-22 19:23:21.215 +09:00 [INF] CreateServiceAccountTemplate templatePath = C:\Users\aquhm\.sheetgenerator\credentials\service_account.template.json
+2025-01-22 19:23:21.216 +09:00 [WRN] Service account template file already exists. Use --force to overwrite.
+2025-01-22 19:23:21.217 +09:00 [INF] Environment initialization completed successfully.
+2025-01-22 19:23:21.217 +09:00 [INF] 초기화가 성공적으로 완료되었습니다.

@@ -1,0 +1,138 @@
+{
+  "name": "ClientTest2",
+  "columns": [
+    {
+      "name": "Index",
+      "type": "int",
+      "description": "\uC778\uB371\uC2A4(\uD544\uC218)",
+      "index": 0
+    },
+    {
+      "name": "Key",
+      "type": "string",
+      "description": "\uC2A4\uD2B8\uB9C1 \uD0A4",
+      "index": 1
+    },
+    {
+      "name": "Description",
+      "type": "float",
+      "description": "\uC124\uBA85",
+      "index": 2
+    },
+    {
+      "name": "English",
+      "type": "int",
+      "description": "\uC601\uC5B4",
+      "index": 3
+    },
+    {
+      "name": "Korean",
+      "type": "float",
+      "description": "\uD55C\uAE00",
+      "index": 4
+    }
+  ],
+  "records": [
+    {
+      "values": {
+        "Index": "1",
+        "Key": "DefaultFont",
+        "Description": "",
+        "English": "1",
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "2",
+        "Key": "Sign Up Agreement",
+        "Description": "",
+        "English": "2",
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "3",
+        "Key": "str_company_name_hogangnono",
+        "Description": "",
+        "English": "3",
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "4",
+        "Key": "str_company_name_zigbang",
+        "Description": "",
+        "English": "4",
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "5",
+        "Key": "str_energy_saving_feature",
+        "Description": "",
+        "English": "5",
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "6",
+        "Key": "str_jump_feature",
+        "Description": "",
+        "English": "6",
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "7",
+        "Key": "str_language_setting_desc",
+        "Description": 0,
+        "English": 0,
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "8",
+        "Key": "str_mic_sound_detection",
+        "Description": 0,
+        "English": 0,
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "9",
+        "Key": "str_new_avatar",
+        "Description": "",
+        "English": "9",
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "10",
+        "Key": "str_remove_camera_background",
+        "Description": 0,
+        "English": 0,
+        "Korean": 0
+      }
+    },
+    {
+      "values": {
+        "Index": "11",
+        "Key": "str_ui_away_notify",
+        "Description": 0,
+        "English": 0,
+        "Korean": 0
+      }
+    }
+  ],
+  "columnCount": 5,
+  "recordCount": 11
+}

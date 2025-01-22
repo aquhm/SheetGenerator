@@ -1,0 +1,39 @@
+{
+  "imports": [
+    {
+      "type": "GoogleSheet",
+      "spreadsheetId": "1R-O2bS_n4-H_mzn_JpXF3w1S2pxAslacGFu-y3Fisyc",
+      "auth": {
+        "authType": "ServiceAccount",
+        "apiKey": "",
+        "serviceAccountPath": "service_account.json"
+      }
+    }
+  ],
+  "exports": [
+    {
+      "type": "Binary",
+      "outputPath": "Generated/Data",
+      "extension": "table",
+      "compression": "none",
+      "encoding": "utf8"
+    },
+    {
+      "type": "Json",
+      "outputPath": "Generated/Data"
+    }
+  ],
+  "codeGens": [
+    {
+      "type": "CSharp",
+      "fileLoadType": "json",
+      "namespace": "StaticData.Tables",
+      "outputPath": "Generated/Script/CSharp",
+      "templates": {
+        "recordPath": "ScriptTemplate/CSharp/RecordTemplate.txt",
+        "tablePath": "ScriptTemplate/CSharp/TableTemplate.txt",
+        "systemPath": "ScriptTemplate/CSharp/SystemTemplate.txt"
+      }
+    }
+  ]
+}
