@@ -66,14 +66,28 @@ SheetGenerator는 구글 시트나 Excel 데이터를 바이너리 또는 JSON �
 ```
 
 4. 구글 시트 포맷 설정
+
+테이블은 다음과 같은 형식으로 구성됩니다:
+
+![Google Sheet Example](https://example.com/path/to/image)
+
+- 첫 줄: `@table:[테이블명]` 형식으로 테이블 시작을 표시
+- 두 번째 줄: 테이블 설명
+- 세 번째 줄: 컬럼명
+- 네 번째 줄: 데이터 타입 (int, string, float, bool, double 등)
+- 다섯 번째 줄: 컬럼 설명
+- 이후: 실제 데이터
+
+예시 스프레드시트의 구조:
 ```
-@table:TableName
-테이블 설명
-컬럼1   컬럼2   컬럼3
-string  int     float
-설명1    설명2   설명3
-데이터1  1      1.0
-데이터2  2      2.0
+@table:ClientTest
+테스트 테이블입니다 (개발용)
+Index    Key      Description   Column1    Column2    Column3    Column4
+int      string   float        int        string     bool       double
+인덱스(필수)  스트링 키  설명        설명1      설명2      설명3      설명4
+1        key_1    1           1          a          true       123
+2        key_2    2           2          b          false      123
+...
 ```
 
 5. 실행
